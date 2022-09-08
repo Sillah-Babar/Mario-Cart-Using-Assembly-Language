@@ -9,5 +9,5 @@ The project is built using Assembly Language in DOSBox, an x86 emulator with DOS
 5.	Keeping track of lives lost
 6.	Collision detection with enemies (ghosts and witch potion)
 
-![This is an image](https://drive.google.com/drive/my-drive)
+![This is an image](https://drive.google.com/file/d/13YnyGFDwmpy66gusLKWJodKcJofol2Oo/view?usp=sharing)
 
